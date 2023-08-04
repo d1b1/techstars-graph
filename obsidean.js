@@ -1,7 +1,6 @@
 const json = require('./techstars.json');
 const _ = require('lodash');
 const { v4: uuidv4 } = require('uuid');
-const neo4j = require('neo4j-driver');
 var async = require('async')
 var template = require('lodash.template');
 

@@ -4,26 +4,15 @@ const { v4: uuidv4 } = require('uuid');
 const neo4j = require('neo4j-driver');
 var async = require('async')
 
-// Set the query.
-// const uri = 'neo4j://localhost';
-// const user = 'neo4j';
-// const password = 'ambereen';
-
-// // To learn more about the driver: https://neo4j.com/docs/javascript-manual/current/client-applications/#js-driver-driver-object
-// const driver = neo4j.driver(uri, neo4j.auth.basic(user, password));
-
-const driver = require('../clients/client.js')
+const driver = require('../clients/neo4j.js')
 
 var jsonData = json;
 let count = 0;
 
 var q = async.queue(function(task, callback) {
     count++;
-
-	console.log(count);
 	const session = driver.session({ database: 'neo4j' });
 	session.executeWrite(tx => tx.run(task.cypher, {})).then(callback)
-
 }, 1);
 
 // assign a callback

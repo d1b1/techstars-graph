@@ -1,0 +1,21 @@
+{
+  "name": "Techstars-Graph",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "auth0": "^3.4.0",
+    "dayjs": "^1.11.7",
+    "dotenv": "^8.2.0",
+    "lodash.template": "^4.5.0",
+    "neo4j-driver": "^5.8.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "prettier": "^2.1.1"
+  }
+}
