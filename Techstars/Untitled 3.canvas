@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ea0391e1aff59fe0","x":-3,"y":247,"width":400,"height":400,"type":"file","file":"Companies/Meenta.md"},
+		{"type":"file","file":"Accelerators/New York Accelerator.md","id":"2ebcb571db7a474b","x":-460,"y":-780,"width":400,"height":800,"color":"2"},
+		{"type":"file","file":"Founders/Aishwaria Shah.md","id":"d28c2984e342563c","x":80,"y":-360,"width":400,"height":400},
+		{"type":"file","file":"Sessions/NYC 2020 T4.md","id":"513dec466a791dd0","x":-460,"y":80,"width":400,"height":580}
+	],
+	"edges":[]
+}

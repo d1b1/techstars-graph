@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "df44c7a0cef7f9fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a79336eaec9b2785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b219826dfb401f54",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d28f5fd5fe89592e",
+    "type": "split",
+    "children": [
+      {
+        "id": "29343c79c232797a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf129df1801dfcf6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8634927cdafd8edf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#MarTech",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5a1c5bad02be42e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f1273ef06e44b6be",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff9295001551653c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0034ff7a67afee0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "023e63051b87de25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e16230159f4240f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "b219826dfb401f54",
+  "lastOpenFiles": [
+    "Founders/Patrick Pittaluga.md",
+    "Sessions/NYC 2012 Summer.md",
+    "Accelerators/New York Accelerator.md",
+    "Sessions/Boston 2017 Q1.md",
+    "Sessions/Boston 2018 Q1.md",
+    "Accelerators/Boston.md",
+    "Sessions/Boston 2019 Q1.md",
+    "Sessions/Boston 2014 Fall.md",
+    "Sessions/Boston 2020 T6.md",
+    "Companies/Metrobi.md",
+    "Companies/CartCrunch.md",
+    "Companies/UptimeHealth.md",
+    "Companies/CodeMentor.md",
+    "Companies/United Market.md",
+    "Companies/Granular.ai.md",
+    "Accelerators/Alabama.md",
+    "Companies/Resultid.md",
+    "Founders/Aditya Badve.md",
+    "Founders/Kevin Magee.md",
+    "Companies/Everyday Life Insurance.md",
+    "Investors/Adam Gold.md",
+    "Accelerators/Barclays Accelerator NYC powered by Techstars.md",
+    "Accelerators/Alexa.md",
+    "Accelerators/ABN AMRO & Techstars Future of Finance Accelerator.md",
+    "Companies/Brio Systems.md",
+    "Sessions/Boston 2015 Summer.md",
+    "Untitled 3.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 4.canvas",
+    "Untitled 2.canvas",
+    "Investors",
+    "Accelerators",
+    "Founders",
+    "Companies",
+    "Sessions"
+  ]
+}
