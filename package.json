@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "author": "",
+  "author": "Stephan Smith",
   "license": "ISC",
   "dependencies": {
     "async": "^3.2.4",
